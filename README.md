@@ -1,4 +1,4 @@
-﻿# CRFR Material Order Automation
+﻿# bulk-material-order-automation
 
 This repository contains an Excel/VBA automation that groups material-order rows by vendor, creates one SAP purchase order per vendor through SAP GUI Scripting and writes the returned PO number to Excel column K.
 
