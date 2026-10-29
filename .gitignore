@@ -1,0 +1,6 @@
+﻿*.log
+*.tmp
+~$*.xlsm
+.idea/
+.vscode/
+*.mp4
